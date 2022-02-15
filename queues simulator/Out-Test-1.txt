@@ -1,0 +1,60 @@
+
+Time 0
+Waiting Clients: (2,3,6)  (1,16,2)  (3,20,2)  (0,24,6)  
+Time 1
+Waiting Clients: (2,3,6)  (1,16,2)  (3,20,2)  (0,24,6)  
+Time 2
+Waiting Clients: (2,3,6)  (1,16,2)  (3,20,2)  (0,24,6)  
+Time 3
+Waiting Clients: (2,3,6)  (1,16,2)  (3,20,2)  (0,24,6)  
+(2,3,6) a fost adaugat
+Time 4
+Waiting Clients: (1,16,2)  (3,20,2)  (0,24,6)  
+Time 5
+Waiting Clients: (1,16,2)  (3,20,2)  (0,24,6)  
+Time 6
+Waiting Clients: (1,16,2)  (3,20,2)  (0,24,6)  
+Time 7
+Waiting Clients: (1,16,2)  (3,20,2)  (0,24,6)  
+Time 8
+Waiting Clients: (1,16,2)  (3,20,2)  (0,24,6)  
+Time 9
+Waiting Clients: (1,16,2)  (3,20,2)  (0,24,6)  
+Time 10
+Waiting Clients: (1,16,2)  (3,20,2)  (0,24,6)  
+Time 11
+Waiting Clients: (1,16,2)  (3,20,2)  (0,24,6)  
+Time 12
+Waiting Clients: (1,16,2)  (3,20,2)  (0,24,6)  
+Time 13
+Waiting Clients: (1,16,2)  (3,20,2)  (0,24,6)  
+Time 14
+Waiting Clients: (1,16,2)  (3,20,2)  (0,24,6)  
+Time 15
+Waiting Clients: (1,16,2)  (3,20,2)  (0,24,6)  
+Time 16
+Waiting Clients: (1,16,2)  (3,20,2)  (0,24,6)  
+(1,16,2) a fost adaugat
+Time 17
+Waiting Clients: (3,20,2)  (0,24,6)  
+Time 18
+Waiting Clients: (3,20,2)  (0,24,6)  
+Time 19
+Waiting Clients: (3,20,2)  (0,24,6)  
+Time 20
+Waiting Clients: (3,20,2)  (0,24,6)  
+(3,20,2) a fost adaugat
+Time 21
+Waiting Clients: (0,24,6)  
+Time 22
+Waiting Clients: (0,24,6)  
+Time 23
+Waiting Clients: (0,24,6)  
+Time 24
+Waiting Clients: (0,24,6)  
+(0,24,6) a fost adaugat
+Time 25
+Waiting Clients: 
+Toti clientii au ajuns la casieri
+
+Average waiting time:4.0

@@ -1,0 +1,10 @@
+Numarul de minute cumulate al fiecarei activitati: 
+Leaving	: 2086 minute
+Breakfast	: 2086 minute
+Sleeping: 2086 minute
+Grooming	: 7599 minute
+Snack	: 1639 minute
+Showering	: 2086 minute
+Spare_Time/TV: 11473 minute
+Toileting	: 6556 minute
+Lunch: 1341 minute

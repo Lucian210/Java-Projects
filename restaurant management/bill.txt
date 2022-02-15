@@ -1,0 +1,5 @@
+Id comanda: 634
+Table: 1
+Data si ora: 02:02:37,13.05.2020
+Produse: a, b, c, d
+Pret total: 10
